@@ -1,8 +1,7 @@
 # events_app
 
-A new Flutter project.
-
-## Getting Started
+### Screenshot 1
+![Screenshot 1](Screenshots/sc1.jpg)
 
 This project is a starting point for a Flutter application.
 
